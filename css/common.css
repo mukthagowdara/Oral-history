@@ -1,0 +1,13 @@
+#heading {
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Cambria,  serif;
+}
+
+.container {
+    margin-top: 20px;
+} 
+
+#para {
+    text-align: justify;
+}
